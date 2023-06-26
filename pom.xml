@@ -15,13 +15,13 @@
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
-        <digyrunner.version>0.0.76</digyrunner.version>
+        <digyrunner.version>0.0.78</digyrunner.version>
         <parallel.tests>10</parallel.tests>
     </properties>
     <dependencies>
         <dependency>
             <groupId>com.digy4</groupId>
-            <artifactId>digy-runner-latest</artifactId>
+            <artifactId>digy-runner-core</artifactId>
             <version>${digyrunner.version}</version>
             <scope>compile</scope>
         </dependency>
